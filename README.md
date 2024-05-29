@@ -2,8 +2,8 @@
 - 👀 I’m interested in everything related to technologie
 - 🌱 I’m currently learning Django and flutter 
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me email:majoiepali4@gmail.com , intagram: Ma-Joie Pali Joyce , Twitter
-- 😄 Pronouns: ...
+- 📫 How to reach me email:majoiepali4@gmail.com , intagram: Ma-Joie Pali Joyce , Twitter : JoycePali
+- 😄 Pronouns: 
 - ⚡ Fun fact: Dancing
 
 <!---
